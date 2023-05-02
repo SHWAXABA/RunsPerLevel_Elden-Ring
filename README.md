@@ -11,8 +11,8 @@
 
 3) Enter the the amount of runs a single creature drops (Golden Scarab is recommended for more Runes and less Runs)
 
-4)Enter the amount of kills you make per run (e.g. how many creatures can you kill before returning to a site of Grace)
-================================================================================================================================
+4) Enter the amount of kills you make per run (e.g. how many creatures can you kill before returning to a site of Grace)
+
 
 The Program will then tell you how many Runs you need to go on and how many kills you need to make to reach your desired stat level
 
