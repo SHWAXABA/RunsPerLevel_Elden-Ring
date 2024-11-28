@@ -5,11 +5,11 @@
 ================================================================================================================================
 1) Enter the Rune amount needed to move up a level
 
-    Note: Because the game increase the amount needed to move up after each level it is recommended to go for at least one more run reach the desired stat level.
+    Note: Because the game increases the amount needed to move up after each level it is recommended to go for at least one more run to reach the desired stat level.
 
 2) Enter the amount of levels you need to move up
 
-3) Enter the the amount of runs a single creature drops (Golden Scarab is recommended for more Runes and less Runs)
+3) Enter the the amount of runes a single creature drops (Golden Scarab is recommended for more Runes and less Runs)
 
 4) Enter the amount of kills you make per run (e.g. how many creatures can you kill before returning to a site of Grace)
 
